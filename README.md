@@ -1,0 +1,1 @@
+This text-based adventure game starts with the player at a crossroad. They choose between going left or right, leading to different challenges like a lake, an island, and three caves. The player’s decisions determine whether they find the treasure or face peril. The code uses input prompts and conditionals to guide the player through the adventure. 
